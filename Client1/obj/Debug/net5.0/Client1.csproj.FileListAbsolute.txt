@@ -1,0 +1,16 @@
+D:\Nien\project\client-serve\Client1\Client1\bin\Debug\net5.0\Client1.exe
+D:\Nien\project\client-serve\Client1\Client1\bin\Debug\net5.0\Client1.deps.json
+D:\Nien\project\client-serve\Client1\Client1\bin\Debug\net5.0\Client1.runtimeconfig.json
+D:\Nien\project\client-serve\Client1\Client1\bin\Debug\net5.0\Client1.runtimeconfig.dev.json
+D:\Nien\project\client-serve\Client1\Client1\bin\Debug\net5.0\Client1.dll
+D:\Nien\project\client-serve\Client1\Client1\bin\Debug\net5.0\ref\Client1.dll
+D:\Nien\project\client-serve\Client1\Client1\bin\Debug\net5.0\Client1.pdb
+D:\Nien\project\client-serve\Client1\Client1\obj\Debug\net5.0\Client1.csproj.AssemblyReference.cache
+D:\Nien\project\client-serve\Client1\Client1\obj\Debug\net5.0\Client1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Nien\project\client-serve\Client1\Client1\obj\Debug\net5.0\Client1.AssemblyInfoInputs.cache
+D:\Nien\project\client-serve\Client1\Client1\obj\Debug\net5.0\Client1.AssemblyInfo.cs
+D:\Nien\project\client-serve\Client1\Client1\obj\Debug\net5.0\Client1.csproj.CoreCompileInputs.cache
+D:\Nien\project\client-serve\Client1\Client1\obj\Debug\net5.0\Client1.dll
+D:\Nien\project\client-serve\Client1\Client1\obj\Debug\net5.0\ref\Client1.dll
+D:\Nien\project\client-serve\Client1\Client1\obj\Debug\net5.0\Client1.pdb
+D:\Nien\project\client-serve\Client1\Client1\obj\Debug\net5.0\Client1.genruntimeconfig.cache
