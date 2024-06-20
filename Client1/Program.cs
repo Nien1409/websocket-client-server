@@ -20,7 +20,7 @@ class ChatClient
         while (true)
         {
             string message = Console.ReadLine();
-            byte[] data = Encoding.ASCII.GetBytes(" Client1: " + message);
+            byte[] data = Encoding.ASCII.GetBytes(" Remote client: " + message);
             stream.Write(data, 0, data.Length);
         }
     }
